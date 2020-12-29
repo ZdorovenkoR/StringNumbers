@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-//Написать метод GetFullName(string firstName, string lastName, string
-//patronymic), принимающий на вход ФИО в разных аргументах и возвращающий
-//объединённую строку с ФИО. Используя метод, написать программу, выводящую в консоль
-//3–4 разных ФИО.
+//Написать программу, принимающую на вход строку — набор чисел, разделенных пробелом, и
+//возвращающую число — сумму всех чисел в строке. Ввести данные с клавиатуры и вывести
+//результат на экран.
+
 namespace StringNumbers
 {
     class Program
